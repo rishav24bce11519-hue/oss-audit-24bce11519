@@ -6,7 +6,7 @@ print_divider() {
 # --- Welcome message ---
 print_divider
 echo "         Open Source Manifesto Generator"
-echo "         Rishab Jain| 25BCE10989"
+echo "         Rishav Raj| 24BCE11519"
 print_divider
 echo ""
 echo "  This script will ask you three short questions and"
@@ -36,7 +36,7 @@ OUTPUT="manifesto_$(whoami)_${TIMESTAMP}.txt"   # Unique output filename
 
 # Write header to file
 echo "       MY OPEN SOURCE MANIFESTO"                          >> "$OUTPUT"
-echo "       Rishav Raj | 24BVE11519"                          >> "$OUTPUT"
+echo "       Rishav Raj | 24BCE11519"                          >> "$OUTPUT"
 echo "       Generated on: $DATE"                               >> "$OUTPUT"
 echo ""                                                          >> "$OUTPUT"
 
