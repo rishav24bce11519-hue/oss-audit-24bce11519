@@ -7,7 +7,7 @@
 
 # --- Variables ---
 STUDENT_NAME="Rishav Raj"            # full name
-REG_NUMBER="25BCE11519"              # Registration number
+REG_NUMBER="24BCE11519"              # Registration number
 SOFTWARE_CHOICE="Git"                # Chosen open-source software
 
 # --- Gather system information using command substitution ---
