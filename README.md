@@ -1,8 +1,8 @@
 # OSS Audit — Git
-### oss-audit-25bce10989
+### oss-audit-24bce11519
 
-**Student Name:** Rishab Jain  
-**Registration Number:** 25BCE10989  
+**Student Name:** Rishav Raj  
+**Registration Number:**24bce11519
 **Course:** Open Source Software (OSS NGMC)  
 **Chosen Software:** Git (Version Control System) — Licensed under GPL v2  
 
@@ -69,8 +69,8 @@ Interactively prompts the user with three questions using `read`, composes a per
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/<rishabjainwork>/oss-audit-25bce10989.git
-cd oss-audit-25bce10989
+git clone https://github.com/rishav24bce11519/oss-audit-24bce11519.git
+cd oss-audit-24bce11915
 ```
 
 ### Step 2 — Make Scripts Executable
