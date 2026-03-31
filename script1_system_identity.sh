@@ -1,13 +1,13 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Rishab Jain | Registration: 25BCE10989
+# Author: Rishav Raj | Registration: 24BCE11519
 # Course: Open Source Software | OSS Capstone Project
 # Purpose: Displays a welcome screen with system information
 #          and confirms the open-source license of the OS.
 
 # --- Variables ---
-STUDENT_NAME="Rishab Jain"            # full name
-REG_NUMBER="25BCE10989"              # Registration number
+STUDENT_NAME="Rishav Raj"            # full name
+REG_NUMBER="25BCE11519"              # Registration number
 SOFTWARE_CHOICE="Git"                # Chosen open-source software
 
 # --- Gather system information using command substitution ---
